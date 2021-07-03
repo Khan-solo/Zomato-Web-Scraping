@@ -20,3 +20,11 @@ frequency of each word used in the descriptions
 [3] Visualisation
 Visualise the analysis done in [2] to further enhance the perception
 of the data collected with the help of Tableu.
+------------------------------------------------------------
+
+The task is completed:
+Language used: Python
+Libraries used: BeautifulSoup, requests, pandas, XlsxWriter.
+IDE used: Pycharm
+Python Version: 3.9.6
+Visualisation in: Tableu Public
