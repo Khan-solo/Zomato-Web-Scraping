@@ -1,0 +1,5 @@
+The link to access the visualisation in Tableu (Step [3]):
+https://public.tableau.com/views/ZomatoRestauranDishDescriptionsWordFrequency/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+An Offline version of the visualisation is saved as a pdf file in the project
+named "Tableu Visualisation.pdf"
